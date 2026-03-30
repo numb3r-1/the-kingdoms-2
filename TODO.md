@@ -1,0 +1,5 @@
+- add https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric
+- public availability
+- download kingdoms2 map
+- stresstest
+- maybe add https://www.curseforge.com/minecraft/mc-mods/fastworkbench/download/6751534
