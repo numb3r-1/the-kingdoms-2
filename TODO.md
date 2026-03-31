@@ -3,3 +3,9 @@
 - download kingdoms2 map
 - stresstest
 - maybe add https://www.curseforge.com/minecraft/mc-mods/fastworkbench/download/6751534
+
+
+optional mods:
+- pressure mods
+- parcool
+- legendary survival overhaul
