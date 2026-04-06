@@ -9,3 +9,4 @@ optional mods:
 - pressure mods
 - parcool
 - legendary survival overhaul
+- armour stand poser GUI
